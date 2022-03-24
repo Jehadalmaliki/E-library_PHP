@@ -183,7 +183,7 @@
              <div class="box-container">
           
                   <div class="box">
-                    <a href="catogrypag.php" ><img src="assets/img/svg/svgexport-46.svg"></a>
+                    <a href="catogrypag.php" ><img src="app/assets/img/svg/svgexport-46.svg"></a>
                       <h3>دين</h3>
                   </div>
               
